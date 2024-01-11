@@ -1,0 +1,104 @@
+/* pages/login/login.wxss */
+.tt1{
+  text-align: center;
+  margin-top:150px;
+}
+.tt{
+  text-align: center;
+  margin-top: 132px;
+}
+.tt2{
+  margin-top: 50px;
+  text-align:center;
+}
+.tt3{
+  margin-top: 50px;
+  text-align:center;
+}
+.btn{
+  margin-top: 20px;
+  height:120px;
+  width: 50px;
+  border:none;
+  text-align:center;
+  
+}
+.avatar{
+    width: 180rpx;
+    height: 180rpx;
+    border-radius: 50%;
+    overflow:hidden;
+}
+.ipt{
+  height: 5rem;  min-height:5rem;
+}
+button[plain]{ border:0 }
+
+
+
+
+/* From uiverse.io by @alexruix */
+.input {
+  color:black;
+  margin-left: 25%;
+  width: 50%;
+  line-height: 28px;
+  border: 2px solid transparent;
+  border-bottom-color:black;
+  padding: .2rem 0;
+  outline: none;
+  background-color: transparent;
+  color: black;
+  transition: .3s cubic-bezier(0.45, 0.045, 0.355, 1);
+ }
+ 
+ .input:focus, input:hover {
+  outline: none;
+  padding: .2rem 0rem;
+  border-radius: 1rem;
+  border-color: #7a9cc6;
+ }
+ 
+ .input::placeholder {
+  color:black;
+ }
+ 
+ .input:focus::placeholder {
+  
+  opacity: 0;
+  transition: opacity .3s;
+ }
+ .color1{
+  color:black;
+ }
+ button {
+  color:black;
+  padding: 0.7em 1.7em;
+  font-size: 18px;
+  border-radius: 0.5em;
+  background: #e8e8e8;
+  border: 1px solid #ffffff;
+  transition: all .3s;
+  box-shadow: 6px 6px 12px #ffffff,
+             -6px -6px 12px #ffffff;
+}
+
+button:hover {
+  border: 1px solid white;
+}
+
+button:active {
+  box-shadow: 4px 4px 12px #ffffff,
+             -4px -4px 12px #ffffff;
+}
+.margin{
+  margin-top: 50px;
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 

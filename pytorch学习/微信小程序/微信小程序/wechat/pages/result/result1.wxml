@@ -1,0 +1,12 @@
+<!--pages/result/result.wxml-->
+<view class="tt">
+<text class="tt1">CBSD</text></view>
+<view class="imgsize">
+<image src="/images/CBSD.jpg" mode="widthFix" class="img" bindtap="openPopup"></image></view>
+<text class="tt2">  由亨宁氏钉孢（Passalora henningsii）侵染引起的，叶片初期症状为水渍状病斑，墨绿色，近圆形或不规则，随后扩大成灰褐色，成熟病斑正反为褐色，中央色泽较深并具有同心轮纹，边缘黑褐色，发病后期病斑会穿孔。正反两面均为褐色的病斑，病斑周围叶脉出现黑色变色。病害造成叶片早衰、提前脱落、产量受损。
+
+防治：注意加强田间病害监测，特别是雨水多发季节，把握好病害防治时机，常用有效药剂有多菌灵、咪鲜胺和丙环唑等。</text>
+
+<button type="default" class="btn" bindtap="addcount">确认识别</button>
+
+

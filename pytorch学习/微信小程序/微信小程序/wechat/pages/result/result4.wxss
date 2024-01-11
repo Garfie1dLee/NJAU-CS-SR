@@ -1,0 +1,48 @@
+/* pages/result/result.wxss */
+.tt{
+  text-align: center;
+  
+}
+.tt1{
+  font-size: 40px;
+  /* 字体颜色 */
+  color: #3b818c;
+  /* 字体风格-粗细 */
+  font-weight: bold;
+}
+.imgsize{
+  display:flex;                   
+  justify-content: center;   
+  margin-top: 25px;
+  
+}
+.img{
+    width: 400rpx;
+    height: 400rpx;
+    border-radius: 50%;
+    overflow:hidden;
+}
+.btn{
+  margin-top: 200px;
+}
+.tt2{
+  color: #3b818c;
+  font-size: 20px;
+  text-indent: 2em;
+  /*段落排版--行间距（行高）*/
+  line-height: 1.5em;
+  /*段落排版--中文字间距*/
+  letter-spacing: 1px;
+  /*字母间距*/
+  word-spacing: 4px;
+  /*文字对齐 right 、left 、center  */
+  text-align: center;
+
+}
+.tt3{
+  margin-top: 50px;
+  text-align: center;
+}
+
+
+

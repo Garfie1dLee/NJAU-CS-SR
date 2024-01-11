@@ -1,0 +1,11 @@
+<!--pages/result/result.wxml-->
+<view class="tt">
+<text class="tt1">数据集来源</text></view>
+<view class="imgsize">
+<image src="/images/Healthy.jpg" mode="widthFix" class="img" bindtap="openPopup"></image></view>
+<view class="tt3">
+<text class="tt2"> 木薯适宜种植区域为热带和部分亚热带地区，光、热和水分等条件优越，生物多样性丰富，十分有利于各类病虫（螨）草害的发生和危害。目前，国内木薯的主要病害以细菌性萎蔫病、花叶病、藻斑病、褐斑病和根腐病为主。</text>
+</view>
+
+
+

@@ -1,0 +1,16 @@
+<!--pages/about/about.wxml-->
+<view class="title"> 简介  </view>
+
+<view class="word">
+  本项目为基于自注意力模型为基础的木薯病害识别系统，能够在一定程度上快速方便的识别木薯的病害种类。使用pytorch进行多种训练模型，以flask+uwsgi+python后台和云开发后台，使用微信小程序作为前端，能够达到87%的总训练精度。</view>
+
+<view class="title"> 
+特点    </view>
+<view class="word">
+  本项目采用的自注意力模型架构不同于传统的CNN架构，是一个新颖的、高效率的工作方式,能够节省资源，快速获得最有效的信息。</view>
+
+<view class="title"> 
+作者     </view>
+<view class="word">
+南京农业大学 计科192 李瑜 </view>
+

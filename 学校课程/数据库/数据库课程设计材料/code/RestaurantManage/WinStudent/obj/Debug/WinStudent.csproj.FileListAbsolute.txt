@@ -1,0 +1,107 @@
+D:\课件\StudentManage\WinStudent\bin\Debug\WinStudent.exe.config
+D:\课件\StudentManage\WinStudent\bin\Debug\WinStudent.exe
+D:\课件\StudentManage\WinStudent\bin\Debug\WinStudent.pdb
+D:\课件\StudentManage\WinStudent\obj\Debug\WinStudent.FrmLogin.resources
+D:\课件\StudentManage\WinStudent\obj\Debug\WinStudent.Properties.Resources.resources
+D:\课件\StudentManage\WinStudent\obj\Debug\WinStudent.csproj.GenerateResource.cache
+D:\课件\StudentManage\WinStudent\obj\Debug\WinStudent.csproj.CoreCompileInputs.cache
+D:\课件\StudentManage\WinStudent\obj\Debug\WinStudent.exe
+D:\课件\StudentManage\WinStudent\obj\Debug\WinStudent.pdb
+D:\课件\StudentManage\WinStudent\obj\Debug\WinStudent.FrmMain.resources
+D:\课件\StudentManage\WinStudent\obj\Debug\WinStudent.FrmAddStudent.resources
+D:\课件\StudentManage\WinStudent\obj\Debug\WinStudent.FrmStudentList.resources
+D:\课件\StudentManage\WinStudent\obj\Debug\WinStudent.FrmAddClass.resources
+D:\课件\StudentManage\WinStudent\obj\Debug\WinStudent.FrmClassList.resources
+D:\课件\StudentManage\WinStudent\obj\Debug\WinStudent.FrmGradeList.resources
+D:\课件\StudentManage\WinStudent\obj\Debug\WinStudent.csprojAssemblyReference.cache
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\bin\Debug\WinStudent.exe.config
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\bin\Debug\WinStudent.exe
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\bin\Debug\WinStudent.pdb
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.csprojAssemblyReference.cache
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.FrmAddClass.resources
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.FrmAddStudent.resources
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.FrmClassList.resources
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.FrmGradeList.resources
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.FrmLogin.resources
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.FrmMain.resources
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.FrmStudentList.resources
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.Properties.Resources.resources
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.csproj.GenerateResource.cache
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.csproj.CoreCompileInputs.cache
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.exe
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.pdb
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.FrmUpdateTable.resources
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.FrmUpdateEmp.resources
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.Frmcustomer.resources
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.FrmAddCumtomer.resources
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.FrmORDER.resources
+D:\QQsave\1511425023\FileRecv\StudentManage\StudentManage\WinStudent\obj\Debug\WinStudent.Frmbill.resources
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\bin\Debug\WinStudent.exe.config
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\bin\Debug\WinStudent.exe
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\bin\Debug\WinStudent.pdb
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.csprojAssemblyReference.cache
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmAddClass.resources
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmAddCumtomer.resources
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmAddStudent.resources
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.Frmbill.resources
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmClassList.resources
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.Frmcustomer.resources
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmGradeList.resources
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmLogin.resources
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmMain.resources
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmORDER.resources
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmStudentList.resources
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmUpdateEmp.resources
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmUpdateTable.resources
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.Properties.Resources.resources
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.csproj.GenerateResource.cache
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.csproj.CoreCompileInputs.cache
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.exe
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.pdb
+D:\QQ\QQdownload\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmOrder1.resources
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\bin\Debug\WinStudent.exe.config
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\bin\Debug\WinStudent.exe
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\bin\Debug\WinStudent.pdb
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.csprojAssemblyReference.cache
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmAddCumtomer.resources
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.Frmbill.resources
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.Frmcustomer.resources
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmLogin.resources
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmMain.resources
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmORDER.resources
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmOrder1.resources
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmUpdateEmp.resources
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmUpdateTable.resources
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.Properties.Resources.resources
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.csproj.GenerateResource.cache
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.csproj.CoreCompileInputs.cache
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.exe
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.pdb
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmAddEmp.resources
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmDishList.resources
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmTableList.resources
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmemptList.resources
+D:\QQsave\1511425023\FileRecv\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmAddDish.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\bin\Debug\WinStudent.exe.config
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\bin\Debug\WinStudent.exe
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\bin\Debug\WinStudent.pdb
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.csprojAssemblyReference.cache
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmAddDish.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmAddCumtomer.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmAddEmp.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.Frmbill.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmDishList.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.Frmcustomer.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmTableList.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmLogin.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmMain.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmORDER.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmOrder1.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmemptList.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmUpdateEmp.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.FrmUpdateTable.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.Properties.Resources.resources
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.csproj.GenerateResource.cache
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.csproj.CoreCompileInputs.cache
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.exe
+D:\workspace\StudentManage (1)\StudentManage (1)\StudentManage\WinStudent\obj\Debug\WinStudent.pdb

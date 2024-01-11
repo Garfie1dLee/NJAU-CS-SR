@@ -1,0 +1,12 @@
+<!--pages/result/result.wxml-->
+<view class="tt">
+<text class="tt1">CBB</text></view>
+<view class="imgsize">
+<image src="/images/CBB.jpg" mode="widthFix" class="img" bindtap="openPopup"></image></view>
+<text class="tt2">  该病害是由地毯草黄单孢木薯萎蔫致病变种引起的，病原菌主要危害木薯叶片和茎秆，最初出现水渍状、暗绿色的角形病斑，随后扩大或汇合。天气干燥时病斑不再扩展，变成褐色或黄褐色。湿度大时，叶片和茎秆病斑上易出现黄色至黄褐色的菌脓。病害严重时叶片干枯脱落，嫩茎、茎秆和根系出现干腐、坏死，甚至整个植株死亡。
+
+防治：严格检疫，繁育和种植无病种茎；选用耐病品种，发现病株及时拔除；雨水过后防止病害加重，可喷洒中生菌素、噻菌铜等药剂进行防治。</text>
+
+<button type="default" class="btn" bindtap="addcount">确认识别</button>
+
+

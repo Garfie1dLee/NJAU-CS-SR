@@ -1,0 +1,49 @@
+.container {  
+  height: 100%;  
+  display: flex;  
+  flex-direction: column;  
+  align-items: center;  
+  justify-content: space-between;  
+  padding: 200rpx 0;  
+  box-sizing: border-box;  
+}  
+
+.list-container{  
+  padding: 0
+}  
+.list-item{  
+  height: 100rpx;  
+  display: flex;  
+  flex-direction: row;  
+  padding:20rpx;  
+}  
+.left{  
+  width: 100rpx;  
+  height:100rpx;  
+}  
+.right{  
+  width: 590rpx;  
+  height: 100rpx;  
+  margin-left: 20rpx;  
+  display: flex;  
+  flex-direction: row;  
+}  
+.title{  
+  flex: 1;  
+  display: flex;  
+  flex-direction: column;  
+  width: 310rpx;  
+}  
+.name{  
+  font-size: 35rpx;  
+  color: #000;  
+}  
+.phone{  
+  font-size: 35rpx;  
+  color:darkgrey;  
+}  
+.time{  
+  width: 200rpx;  
+  color: #aaa;  
+  font-size: 30rpx;  
+}   

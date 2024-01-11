@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+"stm32_exper13\startup_stm32f103x6.o"
+"stm32_exper13\lcd.o"
+"stm32_exper13\spi.o"
+"stm32_exper13\sys.o"
+"stm32_exper13\gui.o"
+"stm32_exper13\main.o"
+"stm32_exper13\stm32f1xx_it.o"
+"stm32_exper13\stm32f1xx_hal_msp.o"
+"stm32_exper13\stm32f1xx_hal_gpio_ex.o"
+"stm32_exper13\stm32f1xx_hal_spi.o"
+"stm32_exper13\stm32f1xx_hal_spi_ex.o"
+"stm32_exper13\stm32f1xx_hal_tim.o"
+"stm32_exper13\stm32f1xx_hal_tim_ex.o"
+"stm32_exper13\stm32f1xx_hal.o"
+"stm32_exper13\stm32f1xx_hal_rcc.o"
+"stm32_exper13\stm32f1xx_hal_rcc_ex.o"
+"stm32_exper13\stm32f1xx_hal_gpio.o"
+"stm32_exper13\stm32f1xx_hal_dma.o"
+"stm32_exper13\stm32f1xx_hal_cortex.o"
+"stm32_exper13\stm32f1xx_hal_pwr.o"
+"stm32_exper13\stm32f1xx_hal_flash.o"
+"stm32_exper13\stm32f1xx_hal_flash_ex.o"
+"stm32_exper13\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "STM32_Exper13\STM32_Exper13.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "STM32_Exper13.map" -o STM32_Exper13\STM32_Exper13.axf

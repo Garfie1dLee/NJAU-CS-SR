@@ -1,0 +1,14 @@
+<!--pages/feedback/feedback.wxml-->
+<view class="opinion_wrap">
+  <form bindsubmit="formSubmit">
+      <view class="content_wrap">
+          <view class="content">
+              <textarea name="opinion"   value="{{content}}" auto-height placeholder-class="placeholder" placeholder="期待您的反馈，此软件将会不断改进" />
+          </view>
+      </view>  
+      <view class="phone">
+          <input name="contact" value="{{contact}}" placeholder-class="placeholder" placeholder="请留下您的手机号或邮箱" />
+      </view>
+      <button formType="submit" hover-class="none" loading="{{loading}}">提交</button>
+  </form>
+</view>

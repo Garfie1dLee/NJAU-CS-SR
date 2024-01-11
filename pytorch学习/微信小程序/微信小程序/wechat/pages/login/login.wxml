@@ -1,0 +1,27 @@
+<!--pages/login/login.wxml-->
+
+  <view class="tt">
+  <view >
+  <text class="color1">头像</text>
+  <button class="avatar-wrapper" open-type="chooseAvatar" bind:chooseavatar="onChooseAvatar" class="btn"
+  plain="true">
+  <image class="avatar"  mode="widthFix" src="{{avatarUrl}}"></image>
+</button> 
+  </view>
+
+  <view class="tt2">
+  <text></text>
+
+  <input model:value="{{nickName}}" placeholder="用户名" type="text" class="input" required=""/>
+
+
+  </view>
+  <view class="margin">
+    <button bindtap="loginsys"> 登录
+</button>
+  </view>
+  </view>
+  
+
+
+ 

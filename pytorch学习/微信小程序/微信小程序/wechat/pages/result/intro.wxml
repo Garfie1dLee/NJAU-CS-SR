@@ -1,0 +1,12 @@
+<!--pages/result/result.wxml-->
+<view class="tt">
+<text class="tt1">木薯</text></view>
+<view class="imgsize">
+<image src="/images/Healthy.jpg" mode="widthFix" class="img" bindtap="openPopup"></image></view>
+<view class="tt3">
+<text class="tt2"> 作为非洲第二大碳水化合物供应国，木薯是小农种植的重要粮食安全作物，因为它可以承受恶劣的条件。撒哈拉以南非洲至少有80％的家庭农场种植这种淀粉状的根，但病毒性疾病是单产低下的主要根源。借助数据科学，可以识别常见疾病，以便对其进行治疗。
+
+现有的疾病检测方法要求农民寻求政府资助的农业专家的帮助，以目视检查和诊断植物。这遭受了劳动密集，供应不足和昂贵的困扰。另外一个挑战是，针对非洲农民的有效解决方案必须在明显的约束下表现良好，因为非洲农民可能只能使用低带宽的移动质量相机。</text>
+</view>
+
+

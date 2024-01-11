@@ -1,0 +1,31 @@
+/* pages/feedback/feedback.wxss */
+page{
+  background-color: #efefef;
+}
+.content_wrap{
+  background-color: #fff;
+}
+.content{
+  padding: 10rpx;
+  margin: 0 auto
+}
+textarea{
+  min-height: 300rpx;
+  width: 100%;
+}
+input{
+  margin-top: 30rpx;
+  height: 100rpx;
+  padding-left: 20rpx;
+  background-color: #fff;
+}
+button{
+  width: 80%;
+  margin-top: 30rpx;
+  background-color: #696969;
+  color: #fff;
+}
+.placeholder{
+  color: #b6b6b6;
+  font-size: 14px;
+}

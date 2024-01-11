@@ -1,0 +1,31 @@
+<!--index.wxml-->
+
+
+<view class="container">
+  <view class="userinfo">
+    <block >
+      <image  class="userinfo-avatar" src="{{user.user_avatar}}" mode="cover"></image>
+      <text class="userinfo-nickname">{{user.user_nickname}}</text>
+      <text>{{user.user_usercount}}</text>
+    </block>
+  </view>
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+</view>
+<view>
+  <ul class="wrapper">
+    <li class="icon facebook">
+        <span class="tooltip" bindtap="openabout">关于</span>
+        <span><i class="fab fa-facebook-f"></i></span>
+    </li>
+    <li class="icon twitter">
+        <span class="tooltip" bindtap="openopinion">意见反馈</span>
+        <span><i class="fab fa-twitter"></i></span>
+    </li>
+    <li class="icon instagram">
+        <span class="tooltip" bindtap="openhistory">历史记录</span>
+        <span><i class="fab fa-instagram"></i></span>
+    </li>
+</ul>
+</view>

@@ -1,0 +1,18 @@
+<!--pages/result/result.wxml-->
+<view class="tt">
+<text class="tt1">模型选择</text></view>
+<view class="imgsize">
+<image src="/images/Healthy.jpg" mode="widthFix" class="img" bindtap="openPopup"></image></view>
+<view class="tt3">
+<text class="tt2"> 针对图像分类问题，有很多成熟的框架可以使用。比如：VGG、ResNet、EfficientNet或者基于机器学习的分类方法，SVM、Bagging、Boosting等。解决算法模型相关问题，大致可以分为三个步骤：
+1、数据预处理
+2、确定模型架构
+3、模型验证与调优
+数据是问题的抽象变现，算法模型是针对数据表现出的问题提炼出的解决方法。毫不夸张的说，任何与算法模型相关的问题实际上都是分析数据、提炼数据的问题。
+数据的预处理包括但不限于数据的收集、标注、增强、去噪声等。由于kaggle比赛会直接提供已标注的数据集，所以可以跳过数据收集和标注过程，专注于分析数据特征，根据预分析得到的数据特征，考虑数据增强方法和去噪方法。
+经过分析统计，以及参考其他人分享的经验，数据中存在标注噪声，所以Label smoothing方法应该被考虑，同时数据中存在类别不均衡的现象，5中类别的样本数量不相等，所以类别不均衡现象也应该被考虑，focal-loss是解决类别不均衡问题的一个可选方法。
+</text>
+</view>
+
+
+

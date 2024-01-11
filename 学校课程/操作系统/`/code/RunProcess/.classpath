@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.osgi_3.15.0.v20190830-1434.jar" sourcepath="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.osgi_3.15.0.v20190830-1434.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.core.commands_3.9.500.v20190805-1157.jar" sourcepath="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.core.commands_3.9.500.v20190805-1157.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.equinox.common_3.10.500.v20190815-1535.jar" sourcepath="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.equinox.common_3.10.500.v20190815-1535.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.equinox.registry_3.8.500.v20190714-1850.jar" sourcepath="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.equinox.registry_3.8.500.v20190714-1850.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.core.runtime_3.16.0.v20190823-1314.jar" sourcepath="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.core.runtime_3.16.0.v20190823-1314.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.text_3.9.0.v20190826-1019.jar" sourcepath="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.text_3.9.0.v20190826-1019.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar" sourcepath="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.jface_3.17.0.v20190820-1444.jar" sourcepath="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.jface_3.17.0.v20190820-1444.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.jface.text_3.15.300.v20190819-0725.jar" sourcepath="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.jface.text_3.15.300.v20190819-0725.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.ui.workbench_3.116.0.v20190826-1428.jar" sourcepath="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.ui.workbench_3.116.0.v20190826-1428.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Garfield/.p2/pool/plugins/com.ibm.icu_64.2.0.v20190507-1337.jar" sourcepath="C:/Users/Garfield/.p2/pool/plugins/com.ibm.icu_64.2.0.v20190507-1337.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.ui.forms_3.8.100.v20190625-1825.jar" sourcepath="C:/Users/Garfield/.p2/pool/plugins/org.eclipse.ui.forms_3.8.100.v20190625-1825.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

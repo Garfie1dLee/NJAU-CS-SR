@@ -1,0 +1,11 @@
+<!--pages/result/result.wxml-->
+<view class="tt">
+<text class="tt1">木薯病害</text></view>
+<view class="imgsize">
+<image src="/images/Healthy.jpg" mode="widthFix" class="img" bindtap="openPopup"></image></view>
+<view class="tt3">
+<text class="tt2"> KAGGLE这次比赛引入了在乌干达定期调查期间收集的21,367张带标签图像的数据集。大多数图像都是从农民那里获取的，并为他们的花园拍照，并由国家作物资源研究所（NaCRRI）的专家与坎帕拉的麦克雷雷大学的AI实验室合作进行注释。这是最现实地表示农民在现实生活中需要诊断的格式。</text>
+</view>
+
+
+

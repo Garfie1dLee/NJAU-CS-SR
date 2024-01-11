@@ -1,0 +1,13 @@
+<!--pages/result/result.wxml-->
+<view class="tt">
+<text class="tt1">CGM</text></view>
+<view class="imgsize">
+<image src="/images/CGM.jpg" mode="widthFix" class="img" bindtap="openPopup"></image></view>
+<text class="tt2">  由寄生性头孢藻（Cephaleuros virescens Kunze）侵染引起的，木薯受害叶片上形成黄褐色或黑褐色、近圆形、具有明显的同心轮纹、后期中央灰白色毛毡状的病斑，严重时造成发病叶片大量脱落，能降低植株的长势和产量。
+
+防治：选用无病种茎留种种植，注意加强田间管理和病害监测，发病后把握好病害防治时机，常用有效药剂有春雷王铜、苯甲丙环唑等。
+</text>
+
+<button type="default" class="btn" bindtap="addcount">确认识别</button>
+
+

@@ -1,0 +1,15 @@
+<!--pages/history/history.wxml-->
+
+
+
+<view class="container list-container"> 
+  <view  class="list-item" wx:for="{{contactList}}"> 
+    <view class="right"> 
+      <view  class="title"> 
+      <view class="name">{{item.info}}</view> 
+      <view class="phone">{{item.time}}</view> 
+    </view> 
+   </view> 
+ </view> 
+</view> 
+

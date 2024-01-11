@@ -1,0 +1,27 @@
+/* pages/about/about.wxss */
+.title{
+  font-size: 35px;
+  /* 字体颜色 */
+  color: #0d2b30;
+  /* 字体风格-粗细 */
+  font-weight: bold;
+  text-align: left;
+}
+.word{
+  text-indent: 20rpx;text-align: left;
+  color: #1b565f;
+  font-size: 20px;
+ 
+  /*段落排版--行间距（行高）*/
+  line-height: 1.5em;
+  /*段落排版--中文字间距*/
+  letter-spacing: 1px;
+  /*字母间距*/
+  word-spacing: 4px;
+  /*文字对齐 right 、left 、center  */
+  text-align: center;
+  text-indent: 2em;
+}
+.read{
+  text-indent: 2em;
+}

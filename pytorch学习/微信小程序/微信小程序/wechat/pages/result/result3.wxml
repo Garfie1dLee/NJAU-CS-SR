@@ -1,0 +1,12 @@
+<!--pages/result/result.wxml-->
+<view class="tt">
+<text class="tt1">CMD</text></view>
+<view class="imgsize">
+<image src="/images/CMD.jpg" mode="widthFix" class="img" bindtap="openPopup"></image></view>
+<text class="tt2">  由斯里兰卡木薯花叶病毒株系引起的，感病植株在叶片上出现褪绿的小斑点，随后逐渐扩大并与正常绿色形成花叶状，受侵染叶片背面有时间可见突起，严重时叶片变形，“花叶”症状因木薯品种不同而异。
+
+防治：以检疫为主，选择无花叶症状的种茎留种；扩大木薯病毒病危害宣传，发现病株及时销毁；必要时喷施嘧肽菌净水剂、乙酸铜、宁南霉素水剂、病毒唑等控制或减缓病情的发展。</text>
+
+<button type="default" class="btn" bindtap="addcount">确认识别</button>
+
+

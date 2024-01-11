@@ -1,0 +1,23 @@
+<!--pages/newindex/newindex.wxml-->
+<swiper class="swiper-container" indicator-dots  indicator-color="#5bae23" indicator-active-color="#fed71a"
+circular="true">
+<swiper-item>
+<view class="item" bindtap="jumpp">木薯介绍
+</view></swiper-item>
+<swiper-item>
+<view class="item" bindtap="jumppp">木薯常见病害
+</view></swiper-item>
+<swiper-item>
+<view class="item" bindtap="jumpppp">数据集来源
+</view></swiper-item>
+<swiper-item>
+<view class="item" bindtap="jumppppp">模型选择
+</view></swiper-item>
+</swiper>
+<!-- <button bindtap="jump" class="tt">测试jump</button>
+<button bindtap="jump1">测试jump</button>
+<button bindtap="jump2">测试jump</button>
+<button bindtap="jump3">测试jump</button>
+<button bindtap="jump4">测试jump</button> -->
+<view class="margintop" > 
+<button bindtap="login" >登录</button></view>

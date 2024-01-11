@@ -1,0 +1,11 @@
+<!--pages/result/result.wxml-->
+<view class="tt">
+<text class="tt1">Healthy</text></view>
+<view class="imgsize">
+<image src="/images/Healthy.jpg" mode="widthFix" class="img" bindtap="openPopup"></image></view>
+<view class="tt3">
+<text class="tt2">  识别结果为健康</text>
+</view>
+<button type="default" class="btn" bindtap="addcount">确认识别</button>
+
+
